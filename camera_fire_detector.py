@@ -1,3 +1,4 @@
+
 #!/usr/bin/env python3
 """
 camera_fire_detector.py  -  Pi Camera fire checker (runs as a SEPARATE script)
